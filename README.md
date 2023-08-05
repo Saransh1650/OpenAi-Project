@@ -2,7 +2,7 @@
 
 
 
-![YouTube Meta Data Generator](https://example.com/youtube-meta-generator.png)
+
 
 ## Overview
 
@@ -14,10 +14,10 @@ The YouTube Meta Data Generator is a web application that utilizes OpenAI's powe
 - User-friendly Interface: Provides a straightforward interface for content creators to enter their video's brief description.
 - Instant Results: Generates meta data in real-time, saving creators valuable time and effort.
 
-## Demo
 
-Check out the live demo of the YouTube Meta Data Generator [here](https://yourdemoappurl.com).
-
+![Screenshot (437)](https://github.com/Saransh1650/OpenAi-Project/assets/91770163/0602cb65-004c-4115-a3c5-47192886f08e)
 
 
 
+
+![Screenshot (438)](https://github.com/Saransh1650/OpenAi-Project/assets/91770163/7fa518f4-a40c-46ae-a24d-72a64851abda)
